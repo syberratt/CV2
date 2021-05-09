@@ -1,13 +1,5 @@
 /* Global
 ---------------------------------------------------------------- */
- /*.clearfix:after {*/
-/* Allows page heading and profile text to display side by side*/
- /*content: "";
-  display: table;
-  clear: both;
-  margin: 0px;
-  color: #0cf7f7
-}*/
 .profileHead {
   float: left;
   /* padding: 0px 0px 0px 20px; */
